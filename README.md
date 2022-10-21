@@ -23,15 +23,15 @@
 chatの自動応答エンジン開発
 - やったこと
   - 対話ロジック、顧客が対話設定等をおこなうダッシュボード、KPI集計等の実装
-  - 対話時に外部APIと連携させるためのLambda、ECSの構築
+  - 対話時に外部APIと連携させるためのLambda、StepFunctions、ECSの構築
   - 継続的なリファクタ
   - unit test　カバレッジ90%達成
 - 技術詳細
   - Vue.js
-  - Python
-    - flask
-    - FastAPI
-  - Ruby on Rails
+  - Python 3
+    - flask 2
+  - Ruby 2.7
+  - rails 6
   - Docker
   - CircleCI
 
