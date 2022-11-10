@@ -27,7 +27,8 @@ chatの自動応答エンジン開発
   - 継続的なリファクタ
   - unit test　カバレッジ90%達成
 - 技術詳細
-  - Vue.js
+  - Vue.js 2.6
+  - typescript 4.7
   - Python 3
     - flask 2
   - Ruby 2.7
