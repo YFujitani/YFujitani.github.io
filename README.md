@@ -29,12 +29,13 @@ chatの自動応答エンジン開発
 - 技術詳細
   - Vue.js 2.6
   - typescript 4.7
-  - Python 3
-    - flask 2
-  - Ruby 2.7
-  - rails 6
+  - Python 3.11
+    - flask 2.0.3
+  - Ruby 3.1.6
+    - rails 6.1
   - Docker
   - CircleCI
+  - ElasticSearch
 
 ### 株式会社サイバーエージェント(2015/02 〜 2018/03)
 サービス横断の技術者部署に配属され、主にログ周りのシステム・ツールの開発をおこなう
@@ -57,6 +58,7 @@ chatの自動応答エンジン開発
   - Hive
   - Logstash
   - Jenkins
+  - Neo4j
 
 ### 株式会社メンバーズ(2014/06 〜 2015/01)
 大手アパレルのECサイトフロントエンド開発
